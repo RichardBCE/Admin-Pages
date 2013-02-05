@@ -110,6 +110,7 @@ define('TEXT_SHIP_SEPARATELY', 'Ship-Separately:');
 define('TEXT_DESIGNER_PAGE_ON', 'Yes');
 define('TEXT_DESIGNER_PAGE_OFF', 'No');
 define('TEXT_YES', 'Yes');
+
 define('TEXT_NO', 'No');
 define('TEXT_CATEGORIES_STATUS_ACTIVE', 'Active');
 define('TEXT_CATEGORIES_STATUS_HIDDEN', 'Hidden');
@@ -117,8 +118,8 @@ define('TEXT_CATEGORIES_STATUS', 'Status');
 define('TEXT_SHOW_ON_DESIGNER_PAGE', 'Show on designer page');
 define('TEXT_HAS_BACKGROUNDS_AVAILABLE', 'Has background available');
 
-define('TEXT_IMAGE_UPLOAD_NOT_PREVIEWER', 'Image Upload Not for Previewer Template');
-define('TEXT_IMAGE_UPLOAD_PREVIEWER', 'Image Upload Previewer Template');
+define('TEXT_IMAGE_UPLOAD_NOT_PREVIEWER', 'Image Upload No Preview Option');
+define('TEXT_IMAGE_UPLOAD_PREVIEWER', 'Image Upload With Preview Option');
 
 define('TEXT_CATEGORIES_ALT_HEADING', 'Alt Heading');
 
